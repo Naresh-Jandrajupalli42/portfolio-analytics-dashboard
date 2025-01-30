@@ -1,0 +1,21 @@
+[
+    {
+      "name": "Strategy A",
+      "totalValue": 100000,
+      "dailyPL": 500,
+      "winRate": 60,
+      "initialValue": 90000,
+      "dates": ["2025-01-01", "2025-02-01", "2025-03-01"],
+      "values": [90000, 95000, 100000]
+    },
+    {
+      "name": "Strategy B",
+      "totalValue": 150000,
+      "dailyPL": 700,
+      "winRate": 70,
+      "initialValue": 120000,
+      "dates": ["2025-01-01", "2025-02-01", "2025-03-01"],
+      "values": [120000, 135000, 150000]
+    }
+  ]
+  
